@@ -9,8 +9,10 @@ Maze Battle is a browser game, in which 2 people compete against each other, and
    - Player that escapes first WINS!
 - Competitive 
    - Like Casual but more resources and less time!
-   - Wins gain you rating and loses lose you rating
-   - Enemies matched based on rating
+   - Rating is called IQ and everyone starts at an IQ of 100
+      - Rating cannot drop below 70
+   - The outcome of each match adds or removes IQ
+   - Enemies matched based on IQ
 - Speedrun
   - Complete premade Mazes to set the fastest speed on the global leaderboard
   - Mazes in this gamemode are made by the developers and will feature player made Mazes as a result of certain events
