@@ -15,7 +15,7 @@ Maze Battle is a browser game, in which 2 people compete against each other, and
   - Complete premade Mazes to set the fastest speed on the global leaderboard
   - Mazes in this gamemode are made by the developers and will feature player made Mazes as a result of certain events
 - Friendly
- - Invite a Friend and configure the rules how you want
+   - Invite a Friend and configure the rules how you want
 - Practice Mode
   - Unlimited/Random resources to mess with and practice making mazes
   - Preset mazes to practice on, developer made and an online collection of player submitted Mazes
