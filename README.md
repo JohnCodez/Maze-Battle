@@ -8,8 +8,9 @@ Maze Battle is a browser game, in which 2 people compete against each other, and
    - Face off with your opponent to try to finish the course first
    - Player that escapes first WINS!
 - Competitive 
--   - Like Multiplayer but wins gain you rating and loses lose you rating
--   - Enemies matched based on rating
+   - Like Multiplayer but more resources and less time!
+   - Wins gain you rating and loses lose you rating
+   - Enemies matched based on rating
 - Speedrun
   - Compete in premade Mazes to set the fastest speed on the global leaderboard
 - Friendly
