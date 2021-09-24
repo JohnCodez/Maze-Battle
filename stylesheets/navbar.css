@@ -1,0 +1,28 @@
+#nav-bar{
+    position: fixed;
+    display: flex;
+    background-color: white;
+    flex-direction:column;
+    height: 99.4%;
+    width: 17rem;
+    border: black;
+    border-width: 3px;
+    border-style: solid;
+    align-items: center;
+    z-index: 2;
+}
+
+#nav-bar-container{
+    position: relative;
+    background-color: white;
+    height: 4rem;
+    width: 17rem;
+    border-style: none none solid none;
+}
+
+#nav-bar-container-text{
+    position: relative;
+    color: black;
+    text-align: center;
+    line-height: 1.25rem;
+}

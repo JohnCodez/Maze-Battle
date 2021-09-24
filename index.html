@@ -6,9 +6,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maze Battle</title>
     <link rel="stylesheet" href="./stylesheets/index.css">
+    <link rel="stylesheet" href="./stylesheets/navbar.css">
+    <link rel="stylesheet" href="./stylesheets/game.css">
+    <link rel="stylesheet" href="./stylesheets/scoreboard.css">
+    <link rel="stylesheet" href="./stylesheets/chat.css">
     <script src="./src/index.js" defer></script>
 </head>
-<body>
-    <h1 id="game-title">Maze Battle</h1>
-</body>
+    <body>
+        <div id="grey-box"></div>
+        <h1 id="page-title">Maze Battle</h1>
+        <div id="nav-bar">
+            <div id="nav-bar-container">
+                <h1 id="nav-bar-container-text">Home</h1>
+            </div>
+            <div id="nav-bar-container">
+                <h1 id="nav-bar-container-text">Profile</h1>
+            </div>
+            <div id="nav-bar-container">
+                <h1 id="nav-bar-container-text">Friends</h1>
+            </div>
+            <div id="nav-bar-container">
+                <h1 id="nav-bar-container-text">Leaderboard</h1>
+            </div>
+            <div id="nav-bar-container">
+                <h1 id="nav-bar-container-text">Settings</h1>
+            </div>
+        </div>
+        <div id="app">
+            <div id="game-window">
+                <h1 id="start-button">Start</h1>
+            </div>
+            <div id="scoreboard-and-chat-container">
+                <div id="scoreboard"></div>
+                <div id="chat-window"></div>
+            </div>
+        </div>
+    </body>
 </html>
