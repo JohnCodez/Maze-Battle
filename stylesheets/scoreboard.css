@@ -1,0 +1,8 @@
+#scoreboard{
+    position: relative;
+    background-color: white;
+    height: 19.5rem;
+    width: 25rem;
+    border-radius: 3px;
+    border-style: solid;
+}
